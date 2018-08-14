@@ -1,0 +1,9 @@
+C:\Users\PC002\AppData\Local\Temporary Projects\EncapsulationAndMethods\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PC002\AppData\Local\Temporary Projects\EncapsulationAndMethods\obj\Debug\EncapsulationAndMethods.frmPublicAccess.resources
+C:\Users\PC002\AppData\Local\Temporary Projects\EncapsulationAndMethods\obj\Debug\EncapsulationAndMethods.frmPrivateAccess.resources
+C:\Users\PC002\AppData\Local\Temporary Projects\EncapsulationAndMethods\obj\Debug\EncapsulationAndMethods.Properties.Resources.resources
+C:\Users\PC002\AppData\Local\Temporary Projects\EncapsulationAndMethods\obj\Debug\EncapsulationAndMethods.csproj.GenerateResource.Cache
+C:\Users\PC002\AppData\Local\Temporary Projects\EncapsulationAndMethods\bin\Debug\EncapsulationAndMethods.exe
+C:\Users\PC002\AppData\Local\Temporary Projects\EncapsulationAndMethods\bin\Debug\EncapsulationAndMethods.pdb
+C:\Users\PC002\AppData\Local\Temporary Projects\EncapsulationAndMethods\obj\Debug\EncapsulationAndMethods.exe
+C:\Users\PC002\AppData\Local\Temporary Projects\EncapsulationAndMethods\obj\Debug\EncapsulationAndMethods.pdb
